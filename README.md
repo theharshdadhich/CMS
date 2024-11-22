@@ -51,7 +51,7 @@ A robust web application designed to streamline clinic operations by managing do
     cd CMS-Admin
     npm install
 
-3. **3. Set up Environment Variables**
+**3. Set up Environment Variables**
 Create a .env file in the root directory of the backend folder. Add the following variables:
 
 - .env
